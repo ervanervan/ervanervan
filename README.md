@@ -9,7 +9,7 @@ As a Front End Developer, I specialize in crafting engaging and responsive user 
 * 🌍  I'm based in Tanjungpinang, Indonesia
 * 🖥️  See my portfolio at [My Website](http://ervanervan.github.io/)
 * ✉️  You can contact me at [ervanervan040@gmail.com](mailto:ervanervan040@gmail.com)
-* 🚀  I'm currently working on [A platform that offers professional services for website creation catering to diverse business and personal needs.](http://sore-pixelcrafters.vercel.app/)
+* 🚀  I'm currently working on [Website creation services](http://sore-pixelcrafters.vercel.app/)
 * 🧠  I'm learning Advanced techniques in responsive web design and diving deeper into front-end frameworks like React.js for building dynamic user interfaces.
 * 🤝  I'm open to collaborating on Projects that involve crafting intuitive user experiences, be it web applications, where I can contribute my front-end development expertise.
 * ⚡  I'm also interested in getting involved in mentoring or assisting aspiring developers in grasping fundamental programming concepts.
