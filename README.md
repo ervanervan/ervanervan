@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ervan Kurniawan
 ======================================================================================================================================
 
-Frontend Developer
+FrontEnd Developer
 -------------------
 
 As a Front End Developer, I specialize in crafting engaging and responsive user interfaces using HTML, CSS, and JavaScript. Currently diving deeper into React JS and Tailwind CSS while staying tuned to the latest trends in web design and technology.
